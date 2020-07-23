@@ -1,1 +1,0 @@
-{"timestamp":"2020-07-23T07:06:16.480+0000","status":500,"error":"Internal Server Error","message":"The request was rejected because the URL contained a potentially malicious String \"//\"","path":"/hyperscaler/rest/api/azure/user-templates///vmHANA.json"}
