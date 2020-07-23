@@ -226,7 +226,7 @@
       }
     },
     "hanaVMSize" : "Standard_M32ts",
-    "appsVMSize" : "Standard_D2as_v4",
+    "appsVMSize" : "Standard_D4as_v4",
     "appsVMCount" : 1,
     "appOSDiskCaching" : "ReadWrite",
     "appOSDiskStorageType" : "Premium_LRS",
